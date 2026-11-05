@@ -251,7 +251,7 @@ function setupAudioListeners() {
 
 // 5. ADD TO GOOGLE CALENDAR
 function addToGoogleCalendar() {
-  const title = encodeURIComponent("Casamiento de Micol & Adriel");
+  const title = encodeURIComponent("Casamiento de Sofía & Mateo");
   const details = encodeURIComponent("Ceremonia Religiosa a las 19:30 hs en Iglesia Juez de la Gandara 850, Libertad. Recepción & Fiesta a las 21:30 hs en Belisario Roldan 911, Libertad.");
   const location = encodeURIComponent("Iglesia Juez de la Gandara 850, Libertad / Belisario Roldan 911, Libertad, Buenos Aires");
   const dates = "20261219T193000Z/20261220T050000Z";
@@ -272,7 +272,7 @@ function openGoogleMap(url, event) {
 
 // 8. COPY BANK ALIAS TO CLIPBOARD
 function copyAlias() {
-  const aliasText = "Micol.galvan";
+  const aliasText = "boda.sofia.mateo";
   if (navigator.clipboard && window.isSecureContext) {
     navigator.clipboard.writeText(aliasText).then(() => showAliasFeedback());
   } else {
