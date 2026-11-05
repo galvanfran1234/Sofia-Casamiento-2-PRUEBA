@@ -9,7 +9,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #4a4a4a;
   background-color: #f7ede8;
-  background-image: url('./wedding-bg.jpg');
+  background-image: url('./img/wedding-bg.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@ body {
   inset: 0;
   z-index: 100;
   background-color: #f7ede8;
-  background-image: url('./wedding-bg.jpg');
+  background-image: url('./img/wedding-bg.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

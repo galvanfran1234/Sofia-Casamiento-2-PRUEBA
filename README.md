@@ -2,7 +2,7 @@
 
 > Experiencia web interactiva *mobile-first* diseñada con Vanilla JavaScript, Tailwind CSS y animaciones CSS 3D para invitaciones de eventos de alta gama.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Ver%20en%20Vivo-success?style=for-the-badge&logo=vercel)](https://galvanfran1234.github.io/micol-casamiento/)
+[![Live Demo](https://img.shields.io/badge/Demo-Ver%20en%20Vivo-success?style=for-the-badge&logo=vercel)](https://galvanfran1234.github.io/Sofia-Casamiento-2-PRUEBA/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![CSS 3D](https://img.shields.io/badge/CSS3-3D%20Transforms-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_transforms/Using_CSS_transforms)
@@ -52,8 +52,8 @@ Los navegadores móviles modernos bloquean la reproducción automática de audio
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/galvanfran1234/micol-casamiento.git
-   cd micol-casamiento
+   git clone https://github.com/galvanfran1234/Sofia-Casamiento-2-PRUEBA.git
+   cd Sofia-Casamiento-2-PRUEBA
    ```
 
 2. Ábrelo en tu navegador favorito:
